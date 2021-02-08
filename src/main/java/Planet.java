@@ -1,7 +1,7 @@
 public class Planet {
 
-    public String name;
-    public Integer size;
+    private String name;
+    private Integer size;
 
     public Planet(String name, Integer size){
         this.name = name;
